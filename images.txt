@@ -2,3 +2,4 @@ nginx
 ubuntu:22.04
 python:3.9
 opensecurity/mobile-security-framework-mobsf:v3.9.7
+python3.9-slim-bullseye
