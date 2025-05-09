@@ -5,4 +5,4 @@ python:3.9
 opensecurity/mobile-security-framework-mobsf:v3.9.7
 python:3.9-slim-bullseye
 sonarsource/sonar-scanner-cli:latest
-nginx:1.6.0
+nginx:1.16.0
