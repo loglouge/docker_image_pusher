@@ -1,1 +1,1 @@
-ubuntu:8.04
+agentnull/ubuntu-cheese:latest
