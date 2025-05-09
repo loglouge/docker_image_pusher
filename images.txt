@@ -1,1 +1,1 @@
-agentnull/ubuntu-cheese:latest
+lpenz/ubuntu-hardy-amd64
