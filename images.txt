@@ -1,1 +1,1 @@
-lpenz/ubuntu-hardy-amd64
+tarampampam/hydra:9.0.0
