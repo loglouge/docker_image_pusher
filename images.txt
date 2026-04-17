@@ -1,1 +1,2 @@
-ubuntu:noble
+
+node:24.13.0
