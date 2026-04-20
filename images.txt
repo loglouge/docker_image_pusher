@@ -1,1 +1,1 @@
-alpine:latest
+maven:3.9.6-openjdk-17-slim
